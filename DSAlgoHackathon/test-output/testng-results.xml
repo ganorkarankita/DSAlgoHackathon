@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="46" total="94" passed="45" failed="3" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Bad Input]]>
+    </line>
+    <line>
+      <![CDATA[Output is :]]>
+    </line>
+    <line>
+      <![CDATA[No Errors]]>
+    </line>
+    <line>
+      <![CDATA[Output is :Hello]]>
+    </line>
+    <line>
+      <![CDATA[You are logged in]]>
+    </line>
+    <line>
+      <![CDATA[Page is scrolled by pixel]]>
+    </line>
+    <line>
+      <![CDATA[No Errors]]>
+    </line>
+    <line>
+      <![CDATA[Output is :Hello]]>
+    </line>
+    <line>
+      <![CDATA[Page is scrolled by pixel]]>
+    </line>
+    <line>
+      <![CDATA[Page is scrolled by pixel]]>
+    </line>
+    <line>
+      <![CDATA[Logged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged out successfully]]>
+    </line>
+    <line>
+      <![CDATA[The no of item in dropdown list:6]]>
+    </line>
+    <line>
+      <![CDATA[Arrays]]>
+    </line>
+    <line>
+      <![CDATA[Linked List]]>
+    </line>
+    <line>
+      <![CDATA[Stack]]>
+    </line>
+    <line>
+      <![CDATA[Queue]]>
+    </line>
+    <line>
+      <![CDATA[Tree]]>
+    </line>
+    <line>
+      <![CDATA[Graph]]>
+    </line>
+    <line>
+      <![CDATA[https://dsportalapp.herokuapp.com/array/]]>
+    </line>
+    <line>
+      <![CDATA[https://dsportalapp.herokuapp.com/linked-list/]]>
+    </line>
+    <line>
+      <![CDATA[https://dsportalapp.herokuapp.com/stack/]]>
+    </line>
+    <line>
+      <![CDATA[https://dsportalapp.herokuapp.com/queue/]]>
+    </line>
+    <line>
+      <![CDATA[https://dsportalapp.herokuapp.com/tree/]]>
+    </line>
+    <line>
+      <![CDATA[https://dsportalapp.herokuapp.com/graph/]]>
+    </line>
+    <line>
+      <![CDATA[Page is scrolled by pixel]]>
+    </line>
+    <line>
+      <![CDATA[Logged out successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-07T22:51:04 CST" name="Suite" finished-at="2022-02-07T22:58:09 CST" duration-ms="424831">
+    <groups>
+    </groups>
+    <test started-at="2022-02-07T22:51:04 CST" name="Test" finished-at="2022-02-07T22:58:09 CST" duration-ms="424831">
+      <class name="automation.testcases.TraversalPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.TraversalPageTest@418c5a9c]" started-at="2022-02-07T22:55:42 CST" name="setup" finished-at="2022-02-07T22:55:43 CST" duration-ms="1697" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTtraversalPage()[pri:0, instance:automation.testcases.TraversalPageTest@418c5a9c]" started-at="2022-02-07T22:55:43 CST" name="verifyTtraversalPage" finished-at="2022-02-07T22:55:46 CST" duration-ms="2583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTtraversalPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.TraversalPageTest@418c5a9c]" started-at="2022-02-07T22:55:46 CST" name="teardown" finished-at="2022-02-07T22:55:47 CST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.TraversalPageTest -->
+      <class name="automation.testcases.StackAppliPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StackAppliPageTest@18e36d14]" started-at="2022-02-07T22:55:47 CST" name="setup" finished-at="2022-02-07T22:55:48 CST" duration-ms="1740" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyImplementingLLPage()[pri:0, instance:automation.testcases.StackAppliPageTest@18e36d14]" started-at="2022-02-07T22:55:48 CST" name="verifyImplementingLLPage" finished-at="2022-02-07T22:55:51 CST" duration-ms="2641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImplementingLLPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StackAppliPageTest@18e36d14]" started-at="2022-02-07T22:55:51 CST" name="teardown" finished-at="2022-02-07T22:55:52 CST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.StackAppliPageTest -->
+      <class name="automation.testcases.DSIntroPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:39 CST" name="setup" finished-at="2022-02-07T22:57:41 CST" duration-ms="1630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySignOut()[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:41 CST" name="VerifySignOut" finished-at="2022-02-07T22:57:45 CST" duration-ms="4451" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySignOut -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:45 CST" name="teardown" finished-at="2022-02-07T22:57:46 CST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:46 CST" name="setup" finished-at="2022-02-07T22:57:48 CST" duration-ms="1623" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="varifyNumpyNinjalink()[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:48 CST" name="varifyNumpyNinjalink" finished-at="2022-02-07T22:57:54 CST" duration-ms="6333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyNumpyNinjalink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:54 CST" name="teardown" finished-at="2022-02-07T22:57:55 CST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:55 CST" name="setup" finished-at="2022-02-07T22:57:56 CST" duration-ms="1617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDSIntroPageLinks()[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:56 CST" name="verifyDSIntroPageLinks" finished-at="2022-02-07T22:57:59 CST" duration-ms="2287" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Time Complexity] but found [https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Time Complexity] but found [https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at automation.testcases.DSIntroPageTest.verifyDSIntroPageLinks(DSIntroPageTest.java:51)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDSIntroPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DSIntroPageTest@4278284b]" started-at="2022-02-07T22:57:59 CST" name="teardown" finished-at="2022-02-07T22:57:59 CST" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.DSIntroPageTest -->
+      <class name="automation.testcases.ArrayPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.ArrayPageTest@75d2da2d]" started-at="2022-02-07T22:57:14 CST" name="setup" finished-at="2022-02-07T22:57:16 CST" duration-ms="1625" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="varifyNumpyNinjalink()[pri:0, instance:automation.testcases.ArrayPageTest@75d2da2d]" started-at="2022-02-07T22:57:16 CST" name="varifyNumpyNinjalink" finished-at="2022-02-07T22:57:23 CST" duration-ms="6485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyNumpyNinjalink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.ArrayPageTest@75d2da2d]" started-at="2022-02-07T22:57:23 CST" name="teardown" finished-at="2022-02-07T22:57:23 CST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.ArrayPageTest@75d2da2d]" started-at="2022-02-07T22:57:23 CST" name="setup" finished-at="2022-02-07T22:57:25 CST" duration-ms="1617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyArrayPageLinks()[pri:0, instance:automation.testcases.ArrayPageTest@75d2da2d]" started-at="2022-02-07T22:57:25 CST" name="verifyArrayPageLinks" finished-at="2022-02-07T22:57:39 CST" duration-ms="13731" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Page is scrolled by pixel]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyArrayPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.ArrayPageTest@75d2da2d]" started-at="2022-02-07T22:57:39 CST" name="teardown" finished-at="2022-02-07T22:57:39 CST" duration-ms="697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.ArrayPageTest -->
+      <class name="automation.testcases.IntroductionPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.IntroductionPageTest@50dfbc58]" started-at="2022-02-07T22:53:28 CST" name="setup" finished-at="2022-02-07T22:53:30 CST" duration-ms="1773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLLIntroduction()[pri:0, instance:automation.testcases.IntroductionPageTest@50dfbc58]" started-at="2022-02-07T22:53:30 CST" name="verifyLLIntroduction" finished-at="2022-02-07T22:53:33 CST" duration-ms="2708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLLIntroduction -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.IntroductionPageTest@50dfbc58]" started-at="2022-02-07T22:53:33 CST" name="teardown" finished-at="2022-02-07T22:53:34 CST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.IntroductionPageTest@50dfbc58]" started-at="2022-02-07T22:53:34 CST" name="setup" finished-at="2022-02-07T22:53:35 CST" duration-ms="1743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTryHere()[pri:0, instance:automation.testcases.IntroductionPageTest@50dfbc58]" started-at="2022-02-07T22:53:35 CST" name="verifyTryHere" finished-at="2022-02-07T22:53:39 CST" duration-ms="3332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTryHere -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.IntroductionPageTest@50dfbc58]" started-at="2022-02-07T22:53:39 CST" name="teardown" finished-at="2022-02-07T22:53:39 CST" duration-ms="628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.IntroductionPageTest -->
+      <class name="automation.testcases.ImplementLLPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.ImplementLLPageTest@5a5338df]" started-at="2022-02-07T22:55:37 CST" name="setup" finished-at="2022-02-07T22:55:38 CST" duration-ms="1652" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyImplementingLLPage()[pri:0, instance:automation.testcases.ImplementLLPageTest@5a5338df]" started-at="2022-02-07T22:55:38 CST" name="verifyImplementingLLPage" finished-at="2022-02-07T22:55:41 CST" duration-ms="2632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyImplementingLLPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.ImplementLLPageTest@5a5338df]" started-at="2022-02-07T22:55:41 CST" name="teardown" finished-at="2022-02-07T22:55:42 CST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.ImplementLLPageTest -->
+      <class name="automation.testcases.TypeLLPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:03 CST" name="setup" finished-at="2022-02-07T22:53:05 CST" duration-ms="1761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyExternalLinks()[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:05 CST" name="verifyExternalLinks" finished-at="2022-02-07T22:53:16 CST" duration-ms="11113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExternalLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:16 CST" name="teardown" finished-at="2022-02-07T22:53:17 CST" duration-ms="721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:17 CST" name="setup" finished-at="2022-02-07T22:53:18 CST" duration-ms="1749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTypeLLPage()[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:18 CST" name="verifyTypeLLPage" finished-at="2022-02-07T22:53:23 CST" duration-ms="4210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTypeLLPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:23 CST" name="teardown" finished-at="2022-02-07T22:53:23 CST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:23 CST" name="setup" finished-at="2022-02-07T22:53:25 CST" duration-ms="1742" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTypeOfLL()[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:25 CST" name="verifyTypeOfLL" finished-at="2022-02-07T22:53:28 CST" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTypeOfLL -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.TypeLLPageTest@73a8da0f]" started-at="2022-02-07T22:53:28 CST" name="teardown" finished-at="2022-02-07T22:53:28 CST" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.TypeLLPageTest -->
+      <class name="automation.testcases.StackOperationPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StackOperationPageTest@302f7971]" started-at="2022-02-07T22:56:36 CST" name="setup" finished-at="2022-02-07T22:56:37 CST" duration-ms="1626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyStackPageLinks()[pri:0, instance:automation.testcases.StackOperationPageTest@302f7971]" started-at="2022-02-07T22:56:37 CST" name="verifyStackPageLinks" finished-at="2022-02-07T22:56:43 CST" duration-ms="5428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStackPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StackOperationPageTest@302f7971]" started-at="2022-02-07T22:56:43 CST" name="teardown" finished-at="2022-02-07T22:56:43 CST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StackOperationPageTest@302f7971]" started-at="2022-02-07T22:56:43 CST" name="setup" finished-at="2022-02-07T22:56:45 CST" duration-ms="1792" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTryHere()[pri:0, instance:automation.testcases.StackOperationPageTest@302f7971]" started-at="2022-02-07T22:56:45 CST" name="verifyTryHere" finished-at="2022-02-07T22:56:50 CST" duration-ms="5142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTryHere -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StackOperationPageTest@302f7971]" started-at="2022-02-07T22:56:50 CST" name="teardown" finished-at="2022-02-07T22:56:51 CST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.StackOperationPageTest -->
+      <class name="automation.testcases.DSDropDownTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DSDropDownTest@13d4992d]" started-at="2022-02-07T22:56:11 CST" name="setup" finished-at="2022-02-07T22:56:13 CST" duration-ms="1651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DSDropdownItemsByVisibleText()[pri:0, instance:automation.testcases.DSDropDownTest@13d4992d]" started-at="2022-02-07T22:56:13 CST" name="DSDropdownItemsByVisibleText" finished-at="2022-02-07T22:56:15 CST" duration-ms="2221" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[The no of item in dropdown list:6]]>
+            </line>
+            <line>
+              <![CDATA[Arrays]]>
+            </line>
+            <line>
+              <![CDATA[Linked List]]>
+            </line>
+            <line>
+              <![CDATA[Stack]]>
+            </line>
+            <line>
+              <![CDATA[Queue]]>
+            </line>
+            <line>
+              <![CDATA[Tree]]>
+            </line>
+            <line>
+              <![CDATA[Graph]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DSDropdownItemsByVisibleText -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DSDropDownTest@13d4992d]" started-at="2022-02-07T22:56:15 CST" name="teardown" finished-at="2022-02-07T22:56:16 CST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DSDropDownTest@13d4992d]" started-at="2022-02-07T22:56:16 CST" name="setup" finished-at="2022-02-07T22:56:17 CST" duration-ms="1702" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DSDropdownlinksValidation()[pri:0, instance:automation.testcases.DSDropDownTest@13d4992d]" started-at="2022-02-07T22:56:17 CST" name="DSDropdownlinksValidation" finished-at="2022-02-07T22:56:35 CST" duration-ms="17502" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://dsportalapp.herokuapp.com/array/]]>
+            </line>
+            <line>
+              <![CDATA[https://dsportalapp.herokuapp.com/linked-list/]]>
+            </line>
+            <line>
+              <![CDATA[https://dsportalapp.herokuapp.com/stack/]]>
+            </line>
+            <line>
+              <![CDATA[https://dsportalapp.herokuapp.com/queue/]]>
+            </line>
+            <line>
+              <![CDATA[https://dsportalapp.herokuapp.com/tree/]]>
+            </line>
+            <line>
+              <![CDATA[https://dsportalapp.herokuapp.com/graph/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DSDropdownlinksValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DSDropDownTest@13d4992d]" started-at="2022-02-07T22:56:35 CST" name="teardown" finished-at="2022-02-07T22:56:36 CST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.DSDropDownTest -->
+      <class name="automation.testcases.GraphInsidePageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.GraphInsidePageTest@5082d622]" started-at="2022-02-07T22:55:52 CST" name="setup" finished-at="2022-02-07T22:55:53 CST" duration-ms="1697" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGraphPageLinks()[pri:0, instance:automation.testcases.GraphInsidePageTest@5082d622]" started-at="2022-02-07T22:55:53 CST" name="verifyGraphPageLinks" finished-at="2022-02-07T22:56:03 CST" duration-ms="9865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGraphPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.GraphInsidePageTest@5082d622]" started-at="2022-02-07T22:56:03 CST" name="teardown" finished-at="2022-02-07T22:56:04 CST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.GraphInsidePageTest@5082d622]" started-at="2022-02-07T22:56:04 CST" name="setup" finished-at="2022-02-07T22:56:06 CST" duration-ms="1609" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGraphPracQue()[pri:0, instance:automation.testcases.GraphInsidePageTest@5082d622]" started-at="2022-02-07T22:56:06 CST" name="verifyGraphPracQue" finished-at="2022-02-07T22:56:11 CST" duration-ms="4943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGraphPracQue -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.GraphInsidePageTest@5082d622]" started-at="2022-02-07T22:56:11 CST" name="teardown" finished-at="2022-02-07T22:56:11 CST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.GraphInsidePageTest -->
+      <class name="automation.testcases.DsTimeComplexPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:56:51 CST" name="setup" finished-at="2022-02-07T22:56:53 CST" duration-ms="1657" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDSIntroTryHere()[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:56:53 CST" name="verifyDSIntroTryHere" finished-at="2022-02-07T22:56:58 CST" duration-ms="5148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDSIntroTryHere -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:56:58 CST" name="teardown" finished-at="2022-02-07T22:56:58 CST" duration-ms="636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:56:58 CST" name="setup" finished-at="2022-02-07T22:57:00 CST" duration-ms="1608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDsComplexityPage()[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:57:00 CST" name="verifyDsComplexityPage" finished-at="2022-02-07T22:57:04 CST" duration-ms="4468" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Time Complexity] but found [https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Time Complexity] but found [https://dsportalapp.herokuapp.com/data-structures-introduction/time-complexity/]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at automation.testcases.DsTimeComplexPageTest.verifyDsComplexityPage(DsTimeComplexPageTest.java:55)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDsComplexityPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:57:05 CST" name="teardown" finished-at="2022-02-07T22:57:05 CST" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:57:05 CST" name="setup" finished-at="2022-02-07T22:57:07 CST" duration-ms="1700" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyPracticeQu()[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:57:07 CST" name="verifyPracticeQu" finished-at="2022-02-07T22:57:14 CST" duration-ms="6893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPracticeQu -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DsTimeComplexPageTest@332729ad]" started-at="2022-02-07T22:57:14 CST" name="teardown" finished-at="2022-02-07T22:57:14 CST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.DsTimeComplexPageTest -->
+      <class name="automation.testcases.HomePageTestClass">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:03 CST" name="setup" finished-at="2022-02-07T22:55:05 CST" duration-ms="1713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyNumpyNinjaLink()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:05 CST" name="VerifyNumpyNinjaLink" finished-at="2022-02-07T22:55:06 CST" duration-ms="763" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [https://dsportalapp.herokuapp.com/] but found [https://dsportalapp.herokuapp.com/home]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [https://dsportalapp.herokuapp.com/] but found [https://dsportalapp.herokuapp.com/home]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at org.testng.Assert.assertEquals(Assert.java:585)
+at automation.testcases.HomePageTestClass.VerifyNumpyNinjaLink(HomePageTestClass.java:62)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNumpyNinjaLink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:06 CST" name="teardown" finished-at="2022-02-07T22:55:07 CST" duration-ms="638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:07 CST" name="setup" finished-at="2022-02-07T22:55:08 CST" duration-ms="1646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySignInBtn()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:08 CST" name="VerifySignInBtn" finished-at="2022-02-07T22:55:09 CST" duration-ms="777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySignInBtn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:09 CST" name="teardown" finished-at="2022-02-07T22:55:10 CST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:10 CST" name="setup" finished-at="2022-02-07T22:55:11 CST" duration-ms="1668" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifySignOut()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:11 CST" name="VerifySignOut" finished-at="2022-02-07T22:55:13 CST" duration-ms="2136" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifySignOut -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:13 CST" name="teardown" finished-at="2022-02-07T22:55:14 CST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:14 CST" name="setup" finished-at="2022-02-07T22:55:16 CST" duration-ms="1636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyregisterBtn()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:16 CST" name="VerifyregisterBtn" finished-at="2022-02-07T22:55:20 CST" duration-ms="3784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyregisterBtn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:20 CST" name="teardown" finished-at="2022-02-07T22:55:20 CST" duration-ms="643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:20 CST" name="setup" finished-at="2022-02-07T22:55:22 CST" duration-ms="1743" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyArrayGetStarted()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:22 CST" name="verifyArrayGetStarted" finished-at="2022-02-07T22:55:24 CST" duration-ms="2036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyArrayGetStarted -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:24 CST" name="teardown" finished-at="2022-02-07T22:55:25 CST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:25 CST" name="setup" finished-at="2022-02-07T22:55:26 CST" duration-ms="1643" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageUrl()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:26 CST" name="verifyHomePageUrl" finished-at="2022-02-07T22:55:27 CST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageUrl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:27 CST" name="teardown" finished-at="2022-02-07T22:55:27 CST" duration-ms="654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:27 CST" name="setup" finished-at="2022-02-07T22:55:29 CST" duration-ms="1667" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLLGetStarted()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:29 CST" name="verifyLLGetStarted" finished-at="2022-02-07T22:55:31 CST" duration-ms="2300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLLGetStarted -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:31 CST" name="teardown" finished-at="2022-02-07T22:55:32 CST" duration-ms="657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:32 CST" name="setup" finished-at="2022-02-07T22:55:34 CST" duration-ms="1761" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyStackGetStarted()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:34 CST" name="verifyStackGetStarted" finished-at="2022-02-07T22:55:36 CST" duration-ms="2291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStackGetStarted -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.HomePageTestClass@6ee4d9ab]" started-at="2022-02-07T22:55:36 CST" name="teardown" finished-at="2022-02-07T22:55:37 CST" duration-ms="640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.HomePageTestClass -->
+      <class name="automation.testcases.InsertionPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.InsertionPageTest@3370f42]" started-at="2022-02-07T22:58:03 CST" name="setup" finished-at="2022-02-07T22:58:05 CST" duration-ms="1896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyInsertionPage()[pri:0, instance:automation.testcases.InsertionPageTest@3370f42]" started-at="2022-02-07T22:58:05 CST" name="verifyInsertionPage" finished-at="2022-02-07T22:58:08 CST" duration-ms="2977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyInsertionPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.InsertionPageTest@3370f42]" started-at="2022-02-07T22:58:08 CST" name="teardown" finished-at="2022-02-07T22:58:09 CST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.InsertionPageTest -->
+      <class name="automation.testcases.GraphPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.GraphPageTest@4416d64f]" started-at="2022-02-07T22:53:39 CST" name="setup" finished-at="2022-02-07T22:53:41 CST" duration-ms="1650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGraphPageLinks()[pri:0, instance:automation.testcases.GraphPageTest@4416d64f]" started-at="2022-02-07T22:53:41 CST" name="verifyGraphPageLinks" finished-at="2022-02-07T22:53:48 CST" duration-ms="7030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGraphPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.GraphPageTest@4416d64f]" started-at="2022-02-07T22:53:48 CST" name="teardown" finished-at="2022-02-07T22:53:49 CST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.GraphPageTest -->
+      <class name="automation.testcases.RegistrationPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.RegistrationPageTest@9573584]" started-at="2022-02-07T22:57:59 CST" name="setup" finished-at="2022-02-07T22:58:01 CST" duration-ms="1705" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegistrationTest()[pri:0, instance:automation.testcases.RegistrationPageTest@9573584]" started-at="2022-02-07T22:58:01 CST" name="RegistrationTest" finished-at="2022-02-07T22:58:03 CST" duration-ms="1531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.RegistrationPageTest@9573584]" started-at="2022-02-07T22:58:03 CST" name="teardown" finished-at="2022-02-07T22:58:03 CST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.RegistrationPageTest -->
+      <class name="automation.testcases.EndToEndTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.EndToEndTest@5026735c]" started-at="2022-02-07T22:51:58 CST" name="setup" finished-at="2022-02-07T22:52:00 CST" duration-ms="1760" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="DemoEndToEndTest()[pri:0, instance:automation.testcases.EndToEndTest@5026735c]" started-at="2022-02-07T22:52:00 CST" name="DemoEndToEndTest" finished-at="2022-02-07T22:52:24 CST" duration-ms="24120" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[You are logged in]]>
+            </line>
+            <line>
+              <![CDATA[Page is scrolled by pixel]]>
+            </line>
+            <line>
+              <![CDATA[No Errors]]>
+            </line>
+            <line>
+              <![CDATA[Output is :Hello]]>
+            </line>
+            <line>
+              <![CDATA[Page is scrolled by pixel]]>
+            </line>
+            <line>
+              <![CDATA[Page is scrolled by pixel]]>
+            </line>
+            <line>
+              <![CDATA[Logged out successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DemoEndToEndTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.EndToEndTest@5026735c]" started-at="2022-02-07T22:52:24 CST" name="teardown" finished-at="2022-02-07T22:52:24 CST" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.EndToEndTest -->
+      <class name="automation.testcases.EditorWindowPageTest">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:04 CST" name="readConfig" finished-at="2022-02-07T22:51:04 CST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:04 CST" name="setup" finished-at="2022-02-07T22:51:22 CST" duration-ms="17771" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEditorWindowforBadInput()[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:22 CST" name="verifyEditorWindowforBadInput" finished-at="2022-02-07T22:51:38 CST" duration-ms="15689" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Bad Input]]>
+            </line>
+            <line>
+              <![CDATA[Output is :]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEditorWindowforBadInput -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:38 CST" name="teardown" finished-at="2022-02-07T22:51:38 CST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:38 CST" name="setup" finished-at="2022-02-07T22:51:40 CST" duration-ms="1759" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEditorWindowforGoodInput()[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:40 CST" name="verifyEditorWindowforGoodInput" finished-at="2022-02-07T22:51:57 CST" duration-ms="17060" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No Errors]]>
+            </line>
+            <line>
+              <![CDATA[Output is :Hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEditorWindowforGoodInput -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:51:57 CST" name="teardown" finished-at="2022-02-07T22:51:58 CST" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:automation.testcases.EditorWindowPageTest@1672fe87]" started-at="2022-02-07T22:58:09 CST" name="endReport" finished-at="2022-02-07T22:58:10 CST" duration-ms="845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- automation.testcases.EditorWindowPageTest -->
+      <class name="automation.testcases.StackPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StackPageTest@1b45c0e]" started-at="2022-02-07T22:52:24 CST" name="setup" finished-at="2022-02-07T22:52:26 CST" duration-ms="1803" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="varifyNumpyNinjalink()[pri:0, instance:automation.testcases.StackPageTest@1b45c0e]" started-at="2022-02-07T22:52:26 CST" name="varifyNumpyNinjalink" finished-at="2022-02-07T22:52:33 CST" duration-ms="6382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyNumpyNinjalink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StackPageTest@1b45c0e]" started-at="2022-02-07T22:52:33 CST" name="teardown" finished-at="2022-02-07T22:52:33 CST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StackPageTest@1b45c0e]" started-at="2022-02-07T22:52:33 CST" name="setup" finished-at="2022-02-07T22:52:35 CST" duration-ms="1703" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyStackPageLinks()[pri:0, instance:automation.testcases.StackPageTest@1b45c0e]" started-at="2022-02-07T22:52:35 CST" name="verifyStackPageLinks" finished-at="2022-02-07T22:52:41 CST" duration-ms="6179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStackPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StackPageTest@1b45c0e]" started-at="2022-02-07T22:52:41 CST" name="teardown" finished-at="2022-02-07T22:52:42 CST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.StackPageTest -->
+      <class name="automation.testcases.StartUpPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:42 CST" name="setup" finished-at="2022-02-07T22:52:44 CST" duration-ms="1769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGetStartedBtnIsWorking()[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:44 CST" name="verifyGetStartedBtnIsWorking" finished-at="2022-02-07T22:52:44 CST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetStartedBtnIsWorking -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:44 CST" name="teardown" finished-at="2022-02-07T22:52:45 CST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:45 CST" name="setup" finished-at="2022-02-07T22:52:46 CST" duration-ms="1678" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:46 CST" name="verifyTitle" finished-at="2022-02-07T22:52:46 CST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:46 CST" name="teardown" finished-at="2022-02-07T22:52:47 CST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:47 CST" name="setup" finished-at="2022-02-07T22:52:49 CST" duration-ms="1768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyurl()[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:49 CST" name="verifyurl" finished-at="2022-02-07T22:52:49 CST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyurl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.StartUpPageTest@11f0a5a1]" started-at="2022-02-07T22:52:49 CST" name="teardown" finished-at="2022-02-07T22:52:50 CST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.StartUpPageTest -->
+      <class name="automation.testcases.SignInPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.SignInPageTest@10f7f7de]" started-at="2022-02-07T22:52:50 CST" name="setup" finished-at="2022-02-07T22:52:51 CST" duration-ms="1649" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SignUpTest()[pri:0, instance:automation.testcases.SignInPageTest@10f7f7de]" started-at="2022-02-07T22:52:51 CST" name="SignUpTest" finished-at="2022-02-07T22:53:02 CST" duration-ms="11096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.SignInPageTest@10f7f7de]" started-at="2022-02-07T22:53:02 CST" name="teardown" finished-at="2022-02-07T22:53:03 CST" duration-ms="689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.SignInPageTest -->
+      <class name="automation.testcases.CreatingLLPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.CreatingLLPageTest@1fb19a0]" started-at="2022-02-07T22:54:58 CST" name="setup" finished-at="2022-02-07T22:55:00 CST" duration-ms="1651" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCreatLLPage()[pri:0, instance:automation.testcases.CreatingLLPageTest@1fb19a0]" started-at="2022-02-07T22:55:00 CST" name="verifyCreatLLPage" finished-at="2022-02-07T22:55:03 CST" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreatLLPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.CreatingLLPageTest@1fb19a0]" started-at="2022-02-07T22:55:03 CST" name="teardown" finished-at="2022-02-07T22:55:03 CST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.CreatingLLPageTest -->
+      <class name="automation.testcases.DeletionPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.DeletionPageTest@6bf08014]" started-at="2022-02-07T22:53:49 CST" name="setup" finished-at="2022-02-07T22:53:50 CST" duration-ms="1765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyDeletionPage()[pri:0, instance:automation.testcases.DeletionPageTest@6bf08014]" started-at="2022-02-07T22:53:50 CST" name="verifyDeletionPage" finished-at="2022-02-07T22:53:53 CST" duration-ms="2516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeletionPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.DeletionPageTest@6bf08014]" started-at="2022-02-07T22:53:53 CST" name="teardown" finished-at="2022-02-07T22:53:54 CST" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.DeletionPageTest -->
+      <class name="automation.testcases.LinkedListPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.LinkedListPageTest@5e3d57c7]" started-at="2022-02-07T22:53:54 CST" name="setup" finished-at="2022-02-07T22:53:56 CST" duration-ms="2037" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="varifyNumpyNinjalink()[pri:0, instance:automation.testcases.LinkedListPageTest@5e3d57c7]" started-at="2022-02-07T22:53:56 CST" name="varifyNumpyNinjalink" finished-at="2022-02-07T22:53:58 CST" duration-ms="2545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- varifyNumpyNinjalink -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.LinkedListPageTest@5e3d57c7]" started-at="2022-02-07T22:53:58 CST" name="teardown" finished-at="2022-02-07T22:53:59 CST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.LinkedListPageTest@5e3d57c7]" started-at="2022-02-07T22:53:59 CST" name="setup" finished-at="2022-02-07T22:54:01 CST" duration-ms="1674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLinkedListPage()[pri:0, instance:automation.testcases.LinkedListPageTest@5e3d57c7]" started-at="2022-02-07T22:54:01 CST" name="verifyLinkedListPage" finished-at="2022-02-07T22:54:33 CST" duration-ms="32186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLinkedListPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.LinkedListPageTest@5e3d57c7]" started-at="2022-02-07T22:54:33 CST" name="teardown" finished-at="2022-02-07T22:54:33 CST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.LinkedListPageTest -->
+      <class name="automation.testcases.ArrayPythonPageTest">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.ArrayPythonPageTest@732d0d24]" started-at="2022-02-07T22:54:33 CST" name="setup" finished-at="2022-02-07T22:54:35 CST" duration-ms="1704" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyArrayEditorWindow()[pri:0, instance:automation.testcases.ArrayPythonPageTest@732d0d24]" started-at="2022-02-07T22:54:35 CST" name="verifyArrayEditorWindow" finished-at="2022-02-07T22:54:39 CST" duration-ms="3988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyArrayEditorWindow -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.ArrayPythonPageTest@732d0d24]" started-at="2022-02-07T22:54:39 CST" name="teardown" finished-at="2022-02-07T22:54:40 CST" duration-ms="629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:automation.testcases.ArrayPythonPageTest@732d0d24]" started-at="2022-02-07T22:54:40 CST" name="setup" finished-at="2022-02-07T22:54:41 CST" duration-ms="1657" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyArrayPageLinks()[pri:0, instance:automation.testcases.ArrayPythonPageTest@732d0d24]" started-at="2022-02-07T22:54:41 CST" name="verifyArrayPageLinks" finished-at="2022-02-07T22:54:58 CST" duration-ms="16368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyArrayPageLinks -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automation.testcases.ArrayPythonPageTest@732d0d24]" started-at="2022-02-07T22:54:58 CST" name="teardown" finished-at="2022-02-07T22:54:58 CST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automation.testcases.ArrayPythonPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

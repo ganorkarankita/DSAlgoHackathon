@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="automation.utility.ListenerClass"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="automation.testcases.EditorWindowPageTest"/>
+      <class name="automation.testcases.EndToEndTest"/>
+      <class name="automation.testcases.StackPageTest"/>
+      <class name="automation.testcases.StartUpPageTest"/>
+      <class name="automation.testcases.SignInPageTest"/>
+      <class name="automation.testcases.TypeLLPageTest"/>
+      <class name="automation.testcases.IntroductionPageTest"/>
+      <class name="automation.testcases.GraphPageTest"/>
+      <class name="automation.testcases.DeletionPageTest"/>
+      <class name="automation.testcases.LinkedListPageTest"/>
+      <class name="automation.testcases.ArrayPythonPageTest"/>
+      <class name="automation.testcases.CreatingLLPageTest"/>
+      <class name="automation.testcases.HomePageTestClass"/>
+      <class name="automation.testcases.ImplementLLPageTest"/>
+      <class name="automation.testcases.TraversalPageTest"/>
+      <class name="automation.testcases.StackAppliPageTest"/>
+      <class name="automation.testcases.GraphInsidePageTest"/>
+      <class name="automation.testcases.DSDropDownTest"/>
+      <class name="automation.testcases.StackOperationPageTest"/>
+      <class name="automation.testcases.DsTimeComplexPageTest"/>
+      <class name="automation.testcases.ArrayPageTest"/>
+      <class name="automation.testcases.DSIntroPageTest"/>
+      <class name="automation.testcases.RegistrationPageTest"/>
+      <class name="automation.testcases.InsertionPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
